@@ -2,7 +2,7 @@
 
 A step-by-step study path for building networking fundamentals and preparing for Cisco's CCNA. Work through the concepts in order, configure small labs, and practice explaining how traffic moves. This is an independent study guide, not an official Cisco exam blueprint or a guarantee of exam coverage.
 
-Use the [roadmap.sh Networking roadmap](https://roadmap.sh/networking-engineer) as a visual companion. For certification preparation, verify the current objectives on Cisco's [CCNA certification page](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html) and its linked exam topics before scheduling an exam. Exam objectives can change.
+Use the [roadmap.sh Networking roadmap](https://roadmap.sh/network-engineer) as a visual companion. For certification preparation, verify the current objectives on Cisco's [CCNA certification page](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html) and its linked exam topics before scheduling an exam. Exam objectives can change.
 
 ## Stage 1: Network foundations
 
