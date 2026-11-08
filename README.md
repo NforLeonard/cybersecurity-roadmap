@@ -1,5 +1,5 @@
 # Cybersecurity Career Roadmap
-
+<img src="Website%20Header%202.png" alt="Cybersecurity operations workspace" width="640">
 A beginner-friendly guide and interactive Dart console program for exploring cybersecurity jobs and choosing a learning direction. It is designed to help you build fundamentals first, compare roles, and then focus on one track.
 
 The sequence is inspired by the topic-based progression in [roadmap.sh's Cyber Security roadmap](https://roadmap.sh/cyber-security). This project is an independent learning guide, not an official roadmap.sh resource.
