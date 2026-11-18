@@ -1,4 +1,7 @@
+
+<img src="Screenshot_20261118-121316.png" alt="Linux file system" width="640">
 # Directory Guide for `~/machine`
+
 
 This is a Linux-inspired workspace tree created inside your Termux home. It is a **directory layout for organizing work**, not a real Linux root filesystem: directories such as `proc`, `sys`, and `dev` here are ordinary folders and do not expose kernel devices or system data. Termux applications still use Android and Termux's actual filesystem paths.
 
