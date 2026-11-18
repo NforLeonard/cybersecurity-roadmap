@@ -1,3 +1,5 @@
+<img src="Screenshot_20261118-122657~2.jpg" alt="Cybersecurity operations workspace" width="600">
+
 # Linux Command-Line Basics
 
 ## Class notes and commands
