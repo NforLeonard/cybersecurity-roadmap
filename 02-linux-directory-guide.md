@@ -1,5 +1,5 @@
 
-<img src="Screenshot_20261118-121316.png" alt="Linux file system" width="640">
+<img src="Screenshot_20261118-122657~2.jpg" alt="Linux file system" width="640">
 # Directory Guide for `~/machine`
 
 
